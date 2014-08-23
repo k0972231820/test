@@ -1,0 +1,71 @@
+@charset: utf-8 ;
+  body{
+    background-color: #D0D0D0 ;
+  }
+  
+  .main{
+    margin: 0 auto ;
+    width: 80% ;
+    padding: 0 10px ;
+    overflow: auto ;
+  }
+  
+  .title{
+    height: 500px ;
+    width:  60% ;
+    margin: 0 auto ;
+  }
+  
+  .index{
+    float: left;
+    width: 170px ;
+    height: 200px ;
+  }
+  
+  .index-button{
+    width: 150px ;
+    font-weight: bolder ;
+    font-family: 微軟正黑體 ;
+    font-size: 30px ;
+  }
+  
+  .content{
+    margin: 0 10px ;
+    margin-left: 204px ;
+  }
+
+  .float-button{
+    display: none ;
+    position: absolute ;
+  }
+  
+  .float-button img{
+    border: none ;
+  }
+  
+  .text{
+    font-size: 25px ;
+  }
+  
+  .small-text{
+    font-size: 20px ;
+  }
+  
+  .final-text{
+    font-size: 20px ;
+    font-family: 標楷體 ;
+  }
+  
+  .text img{
+    height: 717px ;
+    width:  365px ;
+  }
+  
+  #select{
+    display: none ;
+    margin-left: 30px ;
+    text-align: left;
+    font-size: 23px ;
+    font-family: 微軟正黑體 ;
+    font-weight: bolder ;
+  }
